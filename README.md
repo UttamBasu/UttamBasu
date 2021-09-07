@@ -3,7 +3,7 @@
 - 🌱 I’m currently working as Senior IoT Engineer of Terra Motors
 - 💞️ I’m looking to collaborate on different Machine Learning based project.
 - 📫 Follow me on https://github.com/UttamBasu
-Follow me on Linkediln for more details- https://www.linkedin.com/in/uttam-basu/
+- Follow me on Linkediln for more details- https://www.linkedin.com/in/uttam-basu/
 
 <!---
 UttamBasu/UttamBasu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
