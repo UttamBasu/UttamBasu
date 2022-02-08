@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  Uttam Basu
-- 👀 I’m interested in Data Science and IoT
+- 👀 I’m interested in Embedded Design and Data Science
 - 🌱 I’m currently working as Senior IoT Engineer of Terra Motors
-- 💞️ I’m looking to collaborate on different Machine Learning based project.
+- 💞️ I’m looking to collaborate on different Machine Learning based IoT project.
 - 📫 Follow me on https://github.com/UttamBasu
 - Follow me on Linkediln for more details- https://www.linkedin.com/in/uttam-basu/
