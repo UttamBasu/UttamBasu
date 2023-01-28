@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  Uttam Basu
 - 👀 I’m interested in Embedded Design and AI/ML model deployment.
 - 🌱 I’m currently working as Engineer 2 of Soctronics
-- 💞️ I’m looking to collaborate on different Embedded and IoT project.
+- 💞️ I’m looking to collaborate on different Embedded based and IoT project.
 - 📫 Follow me on https://github.com/UttamBasu
 - Follow me on Linkediln for more details- https://www.linkedin.com/in/uttam-basu/
 
