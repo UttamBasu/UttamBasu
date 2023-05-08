@@ -15,7 +15,7 @@ I am Firmware Engineer with experience in low-level driver programming, differen
 
 **Microcontrollers:** ARM7, ARM9, STM32 (ARM Cortex-M), DSP, Raspberry Pi, Texas Instruments (MSP430), Microchip PIC16F (8 bit) & PIC24F (16 bit), Arduino, Node MCU, ESP8266, Atmel AVR, Atmega16.
 
-**Technologies:** BLE, UWF, M2M, RF, RFID, GSM, GPS, Wi-Fi, Bluetooth, IMU, Touch Screen, Camera Sensor.
+**Technologies:** BLE, UWB, M2M, RF, RFID, GSM, GPS, Wi-Fi, Bluetooth, IMU, Touch Screen, Camera Sensor.
 
 **Peripheral programming:** Timers, Interrupts, External Interrupts, Counter, RTC, ADC, PWM, EEPROM.
 
