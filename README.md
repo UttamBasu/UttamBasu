@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  Uttam Basu
 - 👀 I’m interested in Embedded Design and AI/ML model deployment.
-- 🌱 I’m currently working as Engineer 2 of Soctronics
+- 🌱 I’m currently working as Embedded C Engineer at Techolution.
 - 💞️ I’m looking to collaborate on different Embedded based and IoT project.
 - 📫 Follow me on https://github.com/UttamBasu
 - Follow me on Linkediln for more details- https://www.linkedin.com/in/uttam-basu/
@@ -11,11 +11,11 @@ I am Firmware Engineer with experience in low-level driver programming, differen
 
 **Programming Languages:** C, Embedded C, Assembly language, Python, R
 
-**Tools:** MPLABX IDE, Code Composer Studio, STM32CubeMx, MATLAB, AVR studio 6, Proteus, Or-cad, Jupyter, Arduino IDE, Eclipse, AWS
+**Tools:** Segger Embedded Studio for ARM, MPLABX IDE, Code Composer Studio, STM32CubeMx, MATLAB, AVR studio 6, Proteus, Or-cad, Jupyter, Arduino IDE, Eclipse, AWS
 
 **Microcontrollers:** ARM7, ARM9, STM32 (ARM Cortex-M), DSP, Raspberry Pi, Texas Instruments (MSP430), Microchip PIC16F (8 bit) & PIC24F (16 bit), Arduino, Node MCU, ESP8266, Atmel AVR, Atmega16.
 
-**Technologies:** M2M, RF, RFID, GSM, GPS, Wi-Fi, Bluetooth, IMU, Touch Screen, Camera Sensor.
+**Technologies:** BLE, UWF, M2M, RF, RFID, GSM, GPS, Wi-Fi, Bluetooth, IMU, Touch Screen, Camera Sensor.
 
 **Peripheral programming:** Timers, Interrupts, External Interrupts, Counter, RTC, ADC, PWM, EEPROM.
 
@@ -23,7 +23,7 @@ I am Firmware Engineer with experience in low-level driver programming, differen
 
 **Devices and Sensors Driver Designed:** LED, LCD, Graphical Displays, Character Displays, Matrix Keypad, DC Motor, Relays, Gas Sensor, Temperature & Humidity Sensors, LDR, Current Sensor, Ultra-sonic and IR based Proximity Sensors. 
 
-**Operating Systems:** Linux, RTOS
+**Operating Systems:** Linux, RTOS, Zephyr.
 
 **Equipment:** DSO, CRO, Digital Multi-meter, Function Generator, Logic Analyzer, Spectrum Analyzer.
 
