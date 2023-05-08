@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  Uttam Basu
 - 👀 I’m interested in Embedded Design and AI/ML model deployment.
 - 🌱 I’m currently working as Embedded C Engineer at Techolution.
-- 💞️ I’m looking to collaborate on different Embedded based and IoT project.
+- 💞️ I’m looking to collaborate on different AI-Embedded based and IoT project.
 - 📫 Follow me on https://github.com/UttamBasu
 - Follow me on Linkediln for more details- https://www.linkedin.com/in/uttam-basu/
 
