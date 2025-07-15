@@ -1,34 +1,51 @@
 - 👋 Hi, I’m  Uttam Basu
-- 👀 I’m interested in Embedded Driver Design and AI/ML model deployment.
-- 🌱 I’m currently working as Embedded C Engineer at Unnayan Defence Techonologies.
+- 👀 I’m interested in Embedded Driver Design (BSP) and AI/ML model deployment.
+- 🌱 I’m currently working as Embedded Software Developer at Collins Aerospace.
 - 💞️ I’m looking to collaborate on different AI-Embedded based and IoT project.
 - 📫 Follow me on https://github.com/UttamBasu
 - Follow me on Linkediln for more details- https://www.linkedin.com/in/uttam-basu/
 
-I am Firmware Engineer with experience in low-level driver programming, different sensor integration, networking, hardware, PCB designing & IoT. Earlier, I was Junior Lecturer of Electronics & Telecommunication Engineering Department of a well-reputed and NBA accredited Diploma Engineering Institute. Published multiple International Journals and Indian Patents especially based on Embedded systems & Computer Vision. Undergrad degree in Electronics and Communication Engineering and my Masters in Data Science and Engineering gave me a deeper insight into Embedded Cloud AI-based product designing and working on complete product lifecycle and doing live data analysis using Python and different machine learning algorithms. I want to build robust and scalable hardware products with the help of technical and algorithmic skills I acquired through my education in Embedded systems in my professional life. I am also a quick learner, I am happy to say that every day I am learning from seniors, juniors, & friends.
 
-**Specialties:** AI-based Embedded System Design on single core and multicore processor & Coding.
+🔧 Senior Embedded Software Engineer | Aerospace & Defense • RTOS • DMA • Cortex‑M • Firmware Architecture • Patents & Technical Papers
 
-**Programming Languages:** C, Embedded C, Assembly language, Python, R
+I'm an embedded systems specialist with ~6 years of experience in designing, implementing, and optimizing real-time firmware for mission-critical aerospace applications. Currently at Collins Aerospace (and formerly Honeywell), I focus on:
 
-**Tools:** Segger Embedded Studio for ARM, MPLABX IDE, Code Composer Studio, STM32CubeMx, MATLAB, AVR studio 6, Proteus, Or-cad, Jupyter, Arduino IDE, Eclipse, AWS
+🧠 RTOS & Bare-metal Integration: Real-time scheduling, preemptive tasks, low-latency ISR handlers (UART, TIMER, DMA).
 
-**Microcontrollers:** ARM7, ARM9, STM32 (ARM Cortex-M), DSP, Raspberry Pi, Texas Instruments (MSP430), Microchip PIC16F (8 bit) & PIC24F (16 bit), Arduino, Node MCU, ESP8266, Atmel AVR, Atmega16.
+⚙️ DMA-Driven Zero-Copy Data Paths: Efficient sensor/camera interfacing with minimal CPU overhead.
 
-**Technologies:** BLE, UWB, M2M, RF, RFID, GSM, GPS, Wi-Fi, Bluetooth, IMU, Touch Screen, Camera Sensor.
+🖥️ Device Drivers & Peripherals: SPI, I²C, ADC, GPIO, and custom display backplanes on ARM Cortex‑M microcontrollers.
 
-**Peripheral programming:** Timers, Interrupts, External Interrupts, Counter, RTC, ADC, PWM, EEPROM.
+💾 Firmware Architecture & Memory Management: Bootloaders, secure OTA updates, use of FRAM-based memory mapping for robust firmware reloads.
 
-**Protocols:** SPI, I2S, I2C, CAN, USART, UART, RIP, BGP, OSPF, EIGRP, TCP/IP, UDP, RS485, MODBUS (ASCII, RTU, TCP/IP), RS232, RS422
+🛡️ Secure & Reliable Code Delivery: CRC/authenticated updates, staging partitions to ensure safe OTA, rollback on failure.
 
-**Devices and Sensors Driver Designed:** LED, LCD, Graphical Displays, Character Displays, Matrix Keypad, DC Motor, Relays, Gas Sensor, Temperature & Humidity Sensors, LDR, Current Sensor, Ultra-sonic and IR based Proximity Sensors. 
+📄 Patents & Publications
+Secure Firmware Update System – co-inventor on a granted patent for frictionless, secure embedded firmware provisioning (e.g., updating peripheral device code via authenticated protocols).
 
-**Operating Systems:** Linux, RTOS, Zephyr.
+FERAM Memory Expansion for Firmware Updates – contributor to methods using ferroelectric memory to support in-field firmware updates with continuous access 
+researchid.co
+patents.google.com
+.
 
-**Equipment:** DSO, CRO, Digital Multi-meter, Function Generator, Logic Analyzer, Spectrum Analyzer.
+Co-authored technical paper on DMA-based zero-copy buffers optimizing data throughput in real-time systems (internal whitepaper at Collins Aerospace).
 
+💡 Community Content & Educational Tech Blogs
+I share embedded-focused content, including:
 
-I have successfully completed many real-time Microcontroller & IOT based projects. 
-Created and deployed multiple Artificial Intelligence Camera algorithms.
-As, I am a self-motivated person with a positive attitude, a quick learner & eager to learn new technologies & innovation.
-I am really passionate about Embedded System & it's associated fields, such as Machine Learning algorithms and Computer Vision.
+Mini-lectures & quizzes on pointer robustness, static variables across ISRs, and race conditions.
+
+Tech breakdowns of interrupt latency optimization, nested vector interrupt controllers (NVIC), and ARM SysTick/syscon intricacies.
+
+Firmware design guides: layering clean abstraction over bare-metal drivers; unit-testing using hardware abstraction layers and mock frameworks.
+
+🚀 On GitHub You’ll Find
+🔹 Modular RTOS-ready peripheral driver libraries for SPI, UART, DMA
+🔹 Firmware frameworks with DMA zero-copy patterns and task-separation
+🔹 Sample projects: bootloader + update partition, CRC/secure boot routines
+🔹 Code-challenge puzzles: threading traps, ISR reentrancy, pointer aliasing
+
+Tech Stack & Expertise Snapshot
+C · C++17 · FreeRTOS · ARM Cortex‑M0/M3/M4 · DMA · NVIC · CRC, AES · FRAM/NVM · OTA Bootloaders · Static analysis & unit testing with Ceedling.
+
+Feel free to explore, fork, or collaborate! I’m always interested in discussing embedded architecture design, firmware optimization, or contributing to open source RTOS utilities.
